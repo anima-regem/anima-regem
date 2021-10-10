@@ -1,0 +1,22 @@
+#carouselExampleIndicators{
+    width:40%;
+    float:right;
+    box-shadow:0px 0px 10px;
+    margin: 3%;
+}
+#contents{
+    width:50%;
+    float:left;
+    margin-top: 3%;
+}
+article{
+    /* display: flex; */
+}
+header{
+    /* background-color: gray;     */
+    /* border-bottom: 0.1em solid; */
+    box-shadow: 0px 3px 10px;
+}
+#logo{
+    border-radius: 20%;
+}
