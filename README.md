@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anima-regem&label=Profile%20views&color=0e75b6&style=flat" alt="anima-regem" /> </p>
 
-<a href="https://app.daily.dev/anima_regem"><img src="https://api.daily.dev/devcards/979f33453ac7410d9bf9356c42464d38.png?r=5le" width="400" alt="The King's Dev Card"/></a>
+<a href="https://app.daily.dev/anima_regem"><img src="https://api.daily.dev/devcards/v2/pBEmoTSArjavILxOVsnpM.png?type=default&r=u5m" width="356" alt="The King's Dev Card"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anima-regem" alt="anima-regem" /></a> </p>
 
