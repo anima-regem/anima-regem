@@ -29,6 +29,8 @@
 
 - ⚡ Fun fact **I am a glow in the dark dragon!**
 
+[![anima-regem's GitHub | Stats](https://stats.quira.sh/anima-regem/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=anima-regem)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/animaregem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="animaregem" height="30" width="40" /></a>
