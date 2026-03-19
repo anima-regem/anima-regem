@@ -26,21 +26,7 @@ And occasionally reorganized them at 2:17 AM.
 
 ## 🗺️ THE KINGDOM MAP (Cartographically Dubious)
 
-```
-                ☁️  The Floating Isles of New Ideas
-                          (Population: Growing)
-
-     🏔️ Mountains of Overthinking        🌲 Forest of Focus (Seasonal)
-              |                                     |
-              |                                     |
-  🏰 Castle “v1-final-actual-final” —— 🐲 The Great To-Do Abyss
-              |
-              |
-        🧪 Experimental Marshlands
-              |
-              |
-        🌋 Volcano of Sudden Inspiration
-```
+![Map of Kartha](mapofkartha.png)
 
 Adventurers who enter the Great To-Do Abyss report hearing whispers of  
 “just one more tweak.”
