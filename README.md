@@ -1,130 +1,40 @@
-# 🐉 VISWANATHA,  
-## Arch-Dragon of the Unfinished Realms  
-### Supreme Starter of Projects  
-#### Occasional Finisher*
+# Viswanatha Kartha V.
 
-\*Finishing may occur during rare cosmic alignments and optimal snack conditions.
+**Builder of things. Collector of side quests. Occasional finisher.**
 
+I’m a software engineer by profession, but that’s only one part of the story.
 
----
+I like making things, taking things apart, learning whatever catches my attention, and following ideas a little farther than is probably reasonable. Some of those ideas become projects. Some become hobbies. Some become a folder named `final-final-v2`.
 
-## 📖 A Brief & Entirely Accurate History
+Outside work, you’ll usually find me somewhere between:
 
-In the Age of Perpetual Tabs¹ there arose a Dragon of Considerable Curiosity.
+- 🛠️ tinkering with old hardware and giving perfectly obsolete things another life
+- 🧩 building small products, experiments, and oddly specific side projects
+- 🖨️ finding excuses to use my 3D printer
+- 🏍️ messing around with bikes, cars, and things with too many mechanical opinions
+- 🎮 playing games, watching anime, and disappearing into a good story
+- 📚 reading about systems, science, history, design, or whatever rabbit hole won that week
+- 🌱 helping out with open-source and student communities whenever I can
 
-He did not conquer lands.
+I’ve spent a lot of time around hackathons, communities, startups, and ambitious ideas. These days I’m increasingly interested in **making things that are useful, interesting, or simply fun**—not everything needs to become a company, a metric, or a portfolio piece.
 
-He conquered **ideas**.
+### A few things I believe
 
-And occasionally reorganized them at 2:17 AM.
+Curiosity is a pretty good compass.  
+Knowing a little about many things is not a defect.  
+Finishing matters, but so does wandering.  
+And sometimes the best reason to build something is: *“I wanted to see if I could.”*
 
----
+### Elsewhere
 
-### ¹ The Age of Perpetual Tabs  
-*A turbulent era in which no fewer than 47 browser tabs were open “for later.” None were revisited.*
-
----
-
-## 🗺️ THE KINGDOM MAP (Cartographically Dubious)
-
-![Map of Kartha](mapofkartha.png)
-
-Adventurers who enter the Great To-Do Abyss report hearing whispers of  
-“just one more tweak.”
-
----
-
-## ⚔️ Titles Bestowed (Mostly by Himself)
-
-- 🐲 Keeper of Mildly Dangerous Ambition  
-- 📜 Lord of Version Numbers  
-- 🔥 Wielder of the Flaming Cursor  
-- 🧙‍♂️ Grand Sorcerer of “Wait, I Have an Idea”  
-- 🎮 Duke of the Glowing Rectangle  
-
-All titles remain uncontested.
+- 📷 [Instagram](https://instagram.com/kartha.vis)
+- 💼 [LinkedIn](https://linkedin.com/in/viswanathakarthav)
+- ✍️ [Medium](https://medium.com/@vichukartha)
+- 🐦 [X](https://x.com/ViswanathKartha)
+- 🎥 [YouTube](https://youtube.com/@anima-regem)
+- 🌌 [Mastodon](https://mastodon.social/@animaregem)
 
 ---
 
-## 📜 The Prophecy (Annotated for Safety)
-
-> “When the Dragon declares,  
-> ‘This shall be simple,’  
-> The universe shall laugh.”²  
-
-> “When he whispers,  
-> ‘Just one small change,’  
-> Dawn shall break thrice.”
-
----
-
-### ² The Universe  
-Has an excellent sense of timing and poor boundaries.
-
----
-
-## 🌙 The Nature of the Dragon
-
-He breathes not fire — but:
-
-- ✨ Sudden inspiration  
-- ⚡ Hyperfocus  
-- ☕ Caffeine vapor  
-- 📜 Structured chaos  
-
-He wanders.  
-He experiments.  
-He refines.
-
-And occasionally… ships.
-
-
----
-
-# 🌐 Summoning Rituals (Social Scrolls)
-
-Should you wish to contact the Dragon, attempt one of the following portals:
-
-- 📷 Instagram → https://instagram.com/kartha.vis  
-- 💼 LinkedIn → https://linkedin.com/in/viswanathakarthav  
-- ✍️ Medium → https://medium.com/@vichukartha  
-- 🐦 X → https://x.com/ViswanathKartha  
-- 🎥 YouTube → https://youtube.com/@anima-regem  
-- 🌌 Mastodon → https://mastodon.social/@animaregem  
-
-Responses may vary depending on quest status.
-
----
-
-# 📊 Royal Telemetry (Arcane Metrics)
-
-![](https://github-readme-stats.vercel.app/api?username=anima-regem&theme=tokyonight&hide_border=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=anima-regem&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anima-regem&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-## 🏆 Trophies of the Realm
-
-![](https://github-profile-trophy.vercel.app/?username=anima-regem&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-## 🗡️ Final Inscription
-
-If you encounter Viswanatha in the wild,  
-do not ask:
-
-“Is this the final version?”
-
-There is no final version.
-
-There is only evolution.
-
-And possibly a sequel.
-
----
-
-*Thus concludes this official scroll of mild chaos.* 🐉✨
+> Still figuring out what I want to be when I grow up.  
+> Currently accepting interesting side quests.
